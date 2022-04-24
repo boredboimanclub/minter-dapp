@@ -36,7 +36,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "https://www.devilishadventures.org/", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://opensea.io/Boredboimanclub", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
